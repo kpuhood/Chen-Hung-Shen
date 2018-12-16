@@ -1,0 +1,49 @@
+body {
+    background-color:#FFCC80;
+}
+
+
+h1 {
+    color: #FF6D00;
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    font-family: verdana;
+    color: #BA68C8;
+    font-size: 60px;
+}
+
+img{
+  border: 10px solid #FF7043;
+  background-size: cover
+}
+
+.descri{
+  display:flex;
+}
+
+.note{
+  padding: 20px;
+  color: #40C4FF 
+
+}
+
+#abc{
+  color: #795548;
+}
+
+.wei{
+  color: red;
+  background-color:#4DD0E1;
+  font-weight:1000
+}
+
+
+p#ccc{
+    border-left: 6px solid red;
+    background-color: lightgrey;
+}
+
+
