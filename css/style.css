@@ -20,6 +20,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-top {
 }
 nav.navbar.navbar-default.navbar-fixed-top.navbar-top a {
   color: white;
+  font-size: 19px;
   transition: 0.5s;
 }
 nav.navbar.navbar-default.navbar-fixed-top.navbar-top a:hover {
@@ -29,14 +30,15 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-top a:hover {
 header.jumbotron {
   text-align: center;
   background-image: url(https://i.imgur.com/ddA7aoK.jpg);
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   margin-bottom: 0px;
 }
 header.jumbotron .container {
   color: #F9A825;
-  padding: 120px 0px;
+  padding: 100px 0px;
 }
 header.jumbotron hr {
   max-width: 300px;
